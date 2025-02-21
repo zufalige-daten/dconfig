@@ -1,0 +1,6 @@
+-I.
+-I./dhash_map
+-I./darray
+-std=c99
+-ferror-limit=0
+

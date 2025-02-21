@@ -1,0 +1,6 @@
+[submodule "dhash_map"]
+	path = dhash_map
+	url = https://github.com/zufalige-daten/dhash_map
+[submodule "darray"]
+	path = darray
+	url = https://github.com/zufalige-daten/darray
